@@ -34,4 +34,4 @@
 </div>
 
 
-[linkedin]: https://www.linkedin.com/in/filipeocastro
+[linkedin]: https://www.linkedin.com/in/filipe-castro

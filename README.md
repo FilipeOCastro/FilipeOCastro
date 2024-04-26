@@ -25,14 +25,20 @@
 
 ### GitHub stats
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=filipeocastro&count_private=true&show_icons=true">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=filipeocastro&count_private=true&show_icons=true" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=filipeocastro">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=filipeocastro" />
-</a>
-</div>
+
+
+<table display="none">
+  <tr>
+    <th>
+      <a href="https://github.com/FilipeOCastro">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeOCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <th />
+    <th>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOCastro&layout=compact&langs_count=7&theme=dracula"/>
+    <th />
+  <tr />
+</table>
+
 
 
 [linkedin]: https://www.linkedin.com/in/filipe-castro

@@ -7,6 +7,7 @@
 ### How to reach me
 
 [<img align="left" alt="Filipe Castro | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Filipe Castro | Medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 <br />
@@ -35,3 +36,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/filipe-castro
+[medium]: https://medium.com/@filipe.oliveira.castro

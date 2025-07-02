@@ -1,7 +1,7 @@
 ## Hello  ~~World~~ There! [](https://komarev.com/ghpvc/?username=filipeocastro)
 
 
-- 🔭 I’m currently working in Foxconn
+- 🔭 I’m currently working in DEKRA
 
 
 ### How to reach me

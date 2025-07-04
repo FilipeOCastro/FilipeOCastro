@@ -1,31 +1,25 @@
-## Hello  ~~World~~ There! [](https://komarev.com/ghpvc/?username=filipeocastro)
+# Bem-vindo ao meu perfil no GitHub! 👋
 
+Olá! Sou um desenvolvedor apaixonado por tecnologia com **11 anos de experiência** na área de desenvolvimento de software. Atualmente, trabalho na **DEKRA**, onde atuo com tecnologias modernas para construir soluções robustas e escaláveis.
 
-- 🔭 I’m currently working in DEKRA
+## Sobre mim
+- 💻 **Áreas de atuação**: Desenvolvimento backend e frontend com foco em soluções web e mobile.
+- 🚀 **Tecnologias que domino**:
+  - **Backend**: .NET Core, C#, SQL Server, Azure, RabbitMQ, Redis
+  - **Frontend**: HTML5, CSS3, JavaScript, jQuery
+  - **Mobile**: SwiftUI
+- 🌟 **Paixão**: Amo explorar novas tecnologias, resolver problemas complexos e criar aplicações que impactam positivamente os usuários.
 
+## Conecte-se comigo
+- 📌 [LinkedIn](https://www.linkedin.com/in/filipe-castro) - Vamos trocar ideias e experiências!
+- 📌 [Medium](https://medium.com/@filipe.oliveira.castro)
 
-### How to reach me
+## Meus projetos
+Aqui no meu GitHub, você encontrará projetos que refletem meu conhecimento em desenvolvimento de software, incluindo APIs, interfaces web e mobile, e integrações com serviços em nuvem. Fique à vontade para explorar e contribuir!
 
-[<img align="left" alt="Filipe Castro | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Filipe Castro | Medium" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-<br />
-<br />
-
-### Languages and tools
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/visual-studio-code.png" />
-<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/csharp.png" />
-<img align="left" alt=".NET Core" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/netcore.png" />
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/ricardozambon/ricardozambon/icons/css.png" />
-
-<br />
-<br />
+Obrigado por visitar meu perfil! 
 
 ### GitHub stats
-
-
 
 <table display="none">
   <tr>
@@ -40,6 +34,3 @@
 </table>
 
 
-
-[linkedin]: https://www.linkedin.com/in/filipe-castro
-[medium]: https://medium.com/@filipe.oliveira.castro
